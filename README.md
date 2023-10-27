@@ -1,2 +1,2 @@
 # heart_disease_prediction
-Predicting HEart disease
+Predicting Heart disease
